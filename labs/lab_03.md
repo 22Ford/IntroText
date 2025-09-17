@@ -3,7 +3,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)
 
 ## Material Covered During the Lecture:
-- Structure of a text file
+-## Structure of a text file
 - Punctuation, whitespace, line breaks
 - Markup languages, raw vs rendered view. MarkDown, HTML
 - Structured data, JSON and XML formats
